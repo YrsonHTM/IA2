@@ -1,4 +1,4 @@
-![alt text](https://www.topdoctors.mx/files/Image/large/20f7114718de95936e4998ab612951ba.jpg)
+![alt text](https://raw.githubusercontent.com/YrsonHTM/IA2/master/banner/banner.jpeg)
 
 # Clasificacion de fracturas de huesos
 
