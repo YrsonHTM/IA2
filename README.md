@@ -7,7 +7,7 @@
   * Jhordanth Fabian Villamizar Peñaranda - 2190069
   
 ## Objetivo principal:
-  * CLasificar entre huesos fracturados y no fracturados
+  * Clasificar entre huesos fracturados y no fracturados
 
 ### Objetivos secundarios:
   * Analizar los factores que indican las fracturas en los huesos
@@ -22,5 +22,5 @@ Dataset: Este conjunto de datos se compone de imágenes de rayos X fracturadas y
 
 ## Enlaces:
   * notebook: https://colab.research.google.com/drive/1ufGDy-zsqqf6nB_eKzxsOTxj33SXf3X7?usp=sharing
-  * Video: todo
+  * Video: https://www.youtube.com/watch?v=BMDgl1BhuDs
   * repositorio: https://github.com/YrsonHTM/IA2
